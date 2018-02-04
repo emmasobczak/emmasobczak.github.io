@@ -23,6 +23,42 @@ font-family: 'Fredericka the Great', cursive;
 	font-family: 'Inconsolata';
 }
 
+
+.testimonial-title{
+	font-family: 'Fredericka the Great', cursive;
+	text-align: center;
+}
+
+.testimonial-text{
+	font-family: 'Inconsolata';
+	text-align: center;
+}
+
+
+.recent-triumph-title{
+	font-family: 'Fredericka the Great', cursive;
+	text-align: center;
+}
+
+.same-size{
+	width: 10rem;
+	height:30rem;
+}
+
+
+.dog-title{
+font-family: 'Fredericka the Great', cursive;
+	text-align: center;
+}
+
+.dog-assistant{
+	text-align: center;
+	display: block;
+	margin: 0 auto;
+	width: 50%;
+
+}
+
 .tele{
 	text-align: center;
 	font-family: 'Fredericka the Great', cursive;
