@@ -1,0 +1,39 @@
+.header{
+	background-color: white;
+}
+
+.title{
+	text-align: center;
+font-family: 'Fredericka the Great', cursive;
+}
+
+
+.smallimage{
+	width:200px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.mynewcolour{
+	background-color: salmon;
+}
+
+.col-sm-8{
+	font-family: 'Inconsolata';
+}
+
+.tele{
+	text-align: center;
+	font-family: 'Fredericka the Great', cursive;
+}
+
+
+.fixed-bottom{
+	background-color: black;
+	text-align: center;
+}
+
+.navbar-text{
+	color: white;
+}
